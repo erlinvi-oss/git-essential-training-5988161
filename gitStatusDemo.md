@@ -1,1 +1,1 @@
-This is a new line, this is a better change!git
+This is a new line, this is a change.
